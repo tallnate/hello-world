@@ -1,2 +1,3 @@
 # hello-world
-hello wolrd project.
+hello world project.
+Starting with HTML and CSS, Javascript, and python.
